@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bakerycomputing>
+  <orders>
+    <filepath>D:\EDI\cybake\Orders</filepath>
+    <savepath>D:\EDI\cybake\Processed\</savepath>
+    <filename>ICord</filename>
+    <ext>icu</ext>
+    <count>37</count>
+  </orders>
+</bakerycomputing>

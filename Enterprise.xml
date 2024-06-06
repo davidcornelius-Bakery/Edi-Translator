@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bakerycomputing>
+  <orders>
+    <filepath>D:\EDI\Enterprise\Orders</filepath>
+    <savepath>D:\EDI\Enterprise\Processed\</savepath>
+    <count>44</count>
+    <storeids>
+      <id>
+        <value>TESC</value>
+      </id>
+      <id>
+        <value>ARA</value>
+      </id>
+    </storeids>
+  </orders>
+</bakerycomputing>

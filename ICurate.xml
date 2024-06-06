@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bakerycomputing>
+  <orders>
+    <filepath>D:\EDI\I-Curate\Orders</filepath>
+    <savepath>D:\EDI\I-Curate\Processed\</savepath>
+    <storeana>
+    </storeana>
+    <count>64</count>
+  </orders>
+</bakerycomputing>
